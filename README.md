@@ -7,7 +7,7 @@ This project compares four classification models for predicting whether a bank c
 - Decision Tree
 - Support Vector Machine
 
-The full analysis is in [bank.ipynb](./bank.ipynb).
+The full analysis is in [Assignment17_1.ipynb](./Assignment17_1.ipynb).
 
 ## Business Goal
 
@@ -22,9 +22,8 @@ The analysis excludes `duration` because call length is only known after a call 
 ## Project Contents
 
 ```text
-bank.ipynb                  Main analysis notebook
-data/bank-additional-full.csv  Bank marketing dataset
-CRISP-DM-BANK.pdf           Dataset documentation
+Assignment17_1.ipynb                Main analysis notebook
+data/bank-additional-full.csv       Bank marketing dataset
 ```
 
 ## Methods
@@ -58,7 +57,7 @@ The final decision threshold should be selected using the cost of a marketing ca
 
 ## Running the Notebook
 
-Open [bank.ipynb](./bank.ipynb) in Jupyter Notebook or VS Code and run all cells. The notebook was tested with Python 3.12 and requires:
+Open [Assignment17_1.ipynb](./Assignment17_1.ipynb) in Jupyter Notebook or VS Code and run all cells. The notebook was tested with Python 3.12 and requires:
 
 - pandas
 - matplotlib
